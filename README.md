@@ -1,3 +1,5 @@
+# An opensea scraper to retrieve and download opensea collection images.
+
 # Data analysis
 - Document here the project: opensea_image_scraper
 - Description: Project Description
